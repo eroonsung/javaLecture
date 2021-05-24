@@ -15,11 +15,11 @@ public class CombinationTest {
 		System.out.println(num1>>>=2);
 		
 		int num2 = 50;
-		//ë‘ í•­ì˜ & ì—°ì‚° í›„ ê·¸ ê°’ì„ ì™¼ìª½ í•­ì— ëŒ€ì…
+		//µÎ Ç×ÀÇ & ¿¬»ê ÈÄ ±× °ªÀ» ¿ŞÂÊ Ç×¿¡ ´ëÀÔ
 		System.out.println(num1&=num2); //num1=num1&num2
-		//ë‘ í•­ì˜ | ì—°ì‚° í›„ ê·¸ ê°’ì„ ì™¼ìª½ í•­ì— ëŒ€ì…
+		//µÎ Ç×ÀÇ | ¿¬»ê ÈÄ ±× °ªÀ» ¿ŞÂÊ Ç×¿¡ ´ëÀÔ
 		System.out.println(num1|=num2); //num1=num1|num2
-		//ë‘ í•­ì˜ ^ ì—°ì‚° í›„ ê·¸ ê°’ì„ ì™¼ìª½ í•­ì— ëŒ€ì…
+		//µÎ Ç×ÀÇ ^ ¿¬»ê ÈÄ ±× °ªÀ» ¿ŞÂÊ Ç×¿¡ ´ëÀÔ
 		System.out.println(num1^=num2); //num1=num1^num2
 	}
 

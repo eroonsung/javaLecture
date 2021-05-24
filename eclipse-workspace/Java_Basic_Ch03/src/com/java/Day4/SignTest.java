@@ -8,7 +8,7 @@ public class SignTest {
 		int num = 10;
 		
 		System.out.println(+num); //10
-		System.out.println(-num); //-10, num ê°’ì´ ì‹¤ì œë¡œ ë°”ë€Œì§€ëŠ” ì•ŠìŒ
+		System.out.println(-num); //-10, num °ªÀÌ ½ÇÁ¦·Î ¹Ù²îÁö´Â ¾ÊÀ½
 		System.out.println(num); //10
 		
 		num = -num;

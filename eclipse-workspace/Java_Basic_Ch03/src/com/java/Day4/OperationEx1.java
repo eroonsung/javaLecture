@@ -14,7 +14,7 @@ public class OperationEx1 {
 		//byte : +, - , /
 		//bolean : +, -, *, /
 		//System.out.println(true+true);
-		// -> ìˆ˜ì¹˜í˜•ì´ ì•„ë‹ˆê¸° ë•Œë¬¸ì— ë¶ˆê°€ëŠ¥
+		// -> ¼öÄ¡ÇüÀÌ ¾Æ´Ï±â ¶§¹®¿¡ ºÒ°¡´É
 		
 		// float/ int
 
