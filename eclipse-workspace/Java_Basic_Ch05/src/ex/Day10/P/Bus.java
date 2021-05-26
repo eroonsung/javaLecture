@@ -19,7 +19,7 @@ public class Bus {
 		this.number = number;
 	}
 
-	public String getBus() {
+	public String getName() {
 		return name;
 	}
 	public int getNumber() {

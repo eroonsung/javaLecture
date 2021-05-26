@@ -12,11 +12,11 @@ public class BusMain {
 		bus2.setBus("초록 버스", 7011);
 		bus3.setBus("파랑 버스", 471);
 		
-		bus1.getBus();
+		bus1.getName();
 		bus1.getNumber();
-		bus2.getBus();
+		bus2.getName();
 		bus2.getNumber();
-		bus3.getBus();
+		bus3.getName();
 		bus3.getNumber();
 
 		bus1.print();
