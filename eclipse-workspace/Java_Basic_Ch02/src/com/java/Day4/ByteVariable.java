@@ -5,6 +5,7 @@ public class ByteVariable {
 		//Byte형 : byte
 		byte bs1 = -128;
 		//byte bs2 = 128; //2^7
+		byte bs2 = Byte.MAX_VALUE;
 		
 		//Short : 2byte
 		short sh1 = 128;
