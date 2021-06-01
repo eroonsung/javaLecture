@@ -40,7 +40,7 @@ public class CastingMain {
 		
 		int iNum3 = (int)dNum1+(int)fNum2; // 형 변환 후 연산
 		int iNum4 = (int)(dNum1+fNum2); // 실수 연산 후 형 변환
-		System.out.println(iNum3);
-		System.out.println(iNum4);
+		System.out.println(iNum3); //1
+		System.out.println(iNum4); //2
 	}
 }

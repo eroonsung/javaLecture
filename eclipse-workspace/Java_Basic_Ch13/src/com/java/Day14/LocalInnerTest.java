@@ -15,8 +15,8 @@ class Outer{
 			public void run() {
 				//num = 200; // 지역변수는 상수로 바귐
 				//i = 100; // 매개 변수 역시 지역 변수처럼 상수로 바뀜			
-				System.out.println("i = "+i);
-				System.out.println("num = "+num);
+				//System.out.println("i = "+i);
+				//System.out.println("num = "+num);
 				System.out.println("localNum = "+localNum);
 				System.out.println("outNum = "+outNum+"(외부 클래스 인스턴스 변수)");
 				System.out.println("Outer.sNum = "+Outer.sNum+"(외부 클래스 정적 변수)");
